@@ -14,6 +14,8 @@ __pycache__/
 # Input and generated videos
 input/*
 output/*
+!output/diagrams/
+!output/diagrams/**
 
 # YOLO model weights
 yolov8n-pose.pt
